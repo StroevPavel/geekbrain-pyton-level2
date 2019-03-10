@@ -1,0 +1,25 @@
+[
+    {
+        "buyer": "Stroev Pevel",
+        "date": "10.3.2019",
+        "item": "Milk",
+        "price": "61.70",
+        "quantity": "5"
+    }
+,
+{
+    "buyer": "Stroev Pevel",
+    "date": "10.3.2019",
+    "item": "\u0413\u0440\u0443\u0448\u0430",
+    "price": "117.60",
+    "quantity": "3.2"
+}
+,
+{
+    "buyer": "Stroev Pevel",
+    "date": "10.3.2019",
+    "item": "Milk",
+    "price": "61.70",
+    "quantity": "5"
+}
+]
